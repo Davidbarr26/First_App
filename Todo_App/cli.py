@@ -1,7 +1,7 @@
 """
 Project: PythonProject
-program: ToDo App
-Purpose: To create a ToDo application
+program: To-Do App
+Purpose: To create a To-Do application
 Revision History:
     Created on December 20th 2024. By Juan (David) Barrios Rozo
     edited on December 22nd 2024. By Juan (David) Barrios Rozo
