@@ -11,6 +11,8 @@ def write_todos(todos_arg, filepath=Filepath):
     with open(filepath, 'w') as file:
         file.writelines(todos_arg)
 
+def display_copyright():
+    return "\u00A9 2024 Juan (David) Barrios Rozo. All rights are reserved. \n"
 
 if __name__ == "__main__":
     print("Hello")
