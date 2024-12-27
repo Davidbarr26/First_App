@@ -1,3 +1,11 @@
+"""
+Project: PythonProject
+program: file compressor
+Purpose: To create .zip files
+Revision History:
+    Created on December 26th 2024. By Juan (David) Barrios Rozo
+"""
+
 import FreeSimpleGUI as ui
 import zip_creator
 
